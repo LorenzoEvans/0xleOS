@@ -1,1 +1,1 @@
-rootProject.name = "OrchidStarter"
+rootProject.name = "0xleOS"

@@ -17,6 +17,12 @@ repositories {
     jcenter()
 }
 
+orchid {
+    theme = "OrchidCopper"
+    baseUrl = "https://project.netlify.com"
+    version = "1.0.0"
+}
+
 dependencies {
     val orchid_version = "0.20.0"
     compile("io.github.javaeden.orchid:OrchidCore:$orchid_version")
@@ -31,7 +37,7 @@ dependencies {
     orchidRuntime("io.github.javaeden.orchid:OrchidWritersBlocks:$orchid_version")
     orchidRuntime("io.github.javaeden.orchid:OrchidSyntaxHighlighter:$orchid_version")
     orchidRuntime("io.github.javaeden.orchid:OrchidTaxonomies:$orchid_version")
-    orchidRuntime("io.github.javaeden.orchid:OrchidFutureImperfect:$orchid_version")
+    orchidRuntime("io.github.javaeden.orchid:OrchidCopper:0.20.0")
     orchidRuntime("io.github.javaeden.orchid:OrchidAsciidoc:$orchid_version")
 }
 
