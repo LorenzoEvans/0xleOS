@@ -28,7 +28,7 @@ theme:
       termsAtRoot: true
     - type: 'page'
       title: 'About'
-      itemId: 'Author One'
+      itemId: '0xle'
     - type: "pages"
       atRoot: true
     - type: groupPages

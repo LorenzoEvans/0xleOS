@@ -10,7 +10,6 @@
             <header>
                 <h3><a href="{{ page.link }}">{{ page.title }}</a></h3>
                 <time class="published" datetime="2015-10-20">{{ page.publishedDate }}</time>
-                <a href="#" class="author"><img src="{{ page.author.avatarUrl }}" alt=""></a>
             </header>
         </article>
     {% endfor %}

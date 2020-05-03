@@ -1,15 +1,14 @@
 permalink: ':category/:year/:monthName/:slug'
 categories:
-  - key: 'category1'
-    title: 'Category 1'
-  - key: 'category2'
-    title: 'Category 2'
-authors:
-  - name: 'Author Two'
-    avatar: 'assets/images/avatar.jpg'
-    email: 'email@domain.tld'
+  - key: 'mathematics'
+    title: 'Mathematics'
+  - key: 'physics'
+    title: 'Physics'
+  - key: 'programming'
+    title: 'Programming'
+
 postPages:
-  author: 'Author One'
+  author: '0xle'
   layout: single
   components:
     - type: pageContent

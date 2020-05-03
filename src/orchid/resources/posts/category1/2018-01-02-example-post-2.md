@@ -1,5 +1,5 @@
 ---
-title: Example Post Category 1
+title: Example Post Category 3
 featuredImage: assets/media/pic02.jpg
 tags:
     - two

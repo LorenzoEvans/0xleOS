@@ -1,6 +1,6 @@
 ---
 title: Example Post Category 1
-featuredImage: assets/media/pic01.jpg
+featuredImage: assets/media/jacketselfie.jpg
 tags:
     - one
 ---
