@@ -2,6 +2,7 @@ permalink: ':category/:year/:monthName/:slug'
 categories:
   - key: 'mathematics'
     title: 'Mathematics'
+    
   - key: 'physics'
     title: 'Physics'
   - key: 'programming'

@@ -13,7 +13,6 @@ group3: true
 {% endverbatim %}
 ```
 
-{% youtube id="IvUU8joBb1Q" %}
 
 ***
 
@@ -25,7 +24,6 @@ group3: true
 {% endverbatim %}
 ```
 
-{% twitter user="BigBendNPS" id="957346111303376897" %}
 
 ***
 
@@ -49,6 +47,5 @@ group3: true
 {% endverbatim %}
 ```
 
-{% twitter user="TwitterDev" %}
 
 ***
