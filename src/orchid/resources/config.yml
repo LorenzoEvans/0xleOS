@@ -1,9 +1,9 @@
 site:
   about:
-    siteName: 'Orchid'
+    siteName: 'Orchid Starter'
     subtitle: 'Basic starter repo to get going with Orchid quickly'
     siteDescription: 'This is a short blurb you can set below this index layouts sidebar.'
-    avatar: '/assets/media/jacketselfie.jpg'
+    avatar: '/assets/media/logo.jpg'
   theme: 'FutureImperfect'
   baseUrl: 'netlify'
 
