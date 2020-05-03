@@ -9,19 +9,16 @@ site:
 
 theme:
   social:
-    facebook: 'facebookUsername'
-    twitter: 'twitterHandle'
-    instagram: 'instagramHandle'
-    github: 'githubUsername'
+    twitter: '0xLEDev'
+    github: 'LorenzoEvans'
     other:
       - label: 'linkedin'
-        link: 'https://www.example.com'
+        link: 'https://www.linkedin.com/in/lorev/'
         icon: 'fa-tag'
   menu:
     - type: 'page'
       title: 'Home'
       url: '/'
-    - type: "wikiSections"
     - type: 'taxonomy'
       taxonomyType: 'categories'
       includeTerms: true
@@ -38,6 +35,7 @@ theme:
         - 'group1'
         - 'group2'
         - 'group3'
+        - 'mathematics'
   sidebar:
     - type: recentPosts
       limit: 3
