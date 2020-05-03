@@ -11,7 +11,7 @@ components:
 next: 'category1'
 ---
 
-Thanks for trying out Orchid! Feel free to take a look around, then head over to the 
+<!-- Thanks for trying out Orchid! Feel free to take a look around, then head over to the 
 {{ anchor(title='User Manual', collectionId='external', itemId='user-manual') }} to learn more about using Orchid to make 
 your site truly unique. While you're there, check out all our many great 
 {{ anchor(title='plugins', collectionId='external', itemId='Plugins') }} and browse our beautiful 
@@ -23,4 +23,4 @@ sharing a link on Twitter: <a
     class="twitter-share-button" 
     data-text="Check out the site I just made with @OrchidSSG, a new Static Site Generator for Java and Kotlin!" 
     data-url="{{site.baseUrl}}" data-show-count="false">Tweet</a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
