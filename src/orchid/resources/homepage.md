@@ -8,5 +8,5 @@ components:
     noWrapper: true
     template:
       - 'includes/postPreview_large'
-next: 'mathematics'
+next: 'programming'
 ---
