@@ -1,7 +1,7 @@
 site:
   about:
     siteName: 'sforc'
-    subtitle: 'Basic starter repo to get going with Orchid quickly'
+    subtitle: 'Synths for Compilers'
     siteDescription: 'This is a short blurb you can set below this index layouts sidebar.'
     avatar: '/assets/media/oregonnight.jpg'
   theme: 'FutureImperfect'
