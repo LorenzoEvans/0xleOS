@@ -10,3 +10,5 @@ components:
       - 'includes/postPreview_large'
 next: 'programming'
 ---
+
+programmer, musician, writer, thinker, creative
