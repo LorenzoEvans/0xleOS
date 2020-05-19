@@ -9,8 +9,7 @@ tags:
     <img src="/assets/media/network.jpg" alt="A densely connected network"
 	title="Complex System" style="margin-left:auto;margin-right:auto;height:70%;width:70%;"/>
     <h3 class="ttf spacing">At some point, as I child, I stumbled across a definition of 'system', that seemed to describe everything.</h3>
-    <p style="margin-top: 5px;">
-        Faced with the choice between: 
+       <ul> <li class="dib bullet-font">Faced with the choice between: </li></ul>
         <ul style="display:flex;flex-direction:column;">
             <li class="dib li-font"> 
                 <h4 class="bullet-font dib">a</h4>- This definition of a system is wrong.
@@ -19,7 +18,6 @@ tags:
                 <h4 class="bullet-font dib">b</h4>- Everything is a system.
             </li>
         </ul>
-    </p>
     <p>
         I chose (and still choose) the latter, so I've had a healthy personal relationship to systems for a while, looking at scales as systems for producing melodies, music groups as systems for producing, well music, and on a more colloquial level, gaming 'systems', which we unknowingly referred to with an incorrect bifurcation: by system, we meant the games, discs, culture and canons, but we weren't really thinking about the actual mechanical/software systems that underlaid them, or we discarded them as entirely separate (yet still somehow appreciating resolution quality, backwards-compatibility and framerate).
     </p>
@@ -34,6 +32,10 @@ tags:
     This, while more verbose than the definition that changed my thinking as a kid, is pretty much the perspective from which I am most comfortable approaching things, because I think it's the most 'zoomed out' perspective you can take on anything, and many things, like the elephant, become dangerously unrecognizable if you <a href="https://www.youtube.com/watch?v=qoWRs7lXtYE">look too closely</a>.
     </p>
     <p>
-    Now, having swan dived into tech, I'd read about many sub-types of systems, mainly operating systems, decentralized/distributed networks, and database management systems, but it wasn't until March of this year, when I started studying for my AWS Cloud Practitioner certification (which I earned last Thursday, w00t!), that I began to really explore the abstract concept of systems.
+    Now, having swan dived into tech, I'd read about many sub-types of systems, mainly operating systems, decentralized/distributed networks, and database management systems, but it wasn't until March of this year, when I started studying for my AWS Cloud Practitioner certification (which I earned last Thursday, w00t!), that I began to really explore the abstract concept of systems- I was looking for resources for passing Triplebyte's interview, and stumbled onto <a href="https://github.com/donnemartin/system-design-primer">The System Design Primer</a>.
+    </p>
+    <p>The repo opens up with a really fantastic diagram, that I immediately felt could map onto many things, could be useful for designing any system, even though the nodes were labeled with technical terms, those technical terms had corollaries in other fields, and domains, and I decided it was time to formalize my relationship with systems- there's a lot of jargon, systems design, systems engineering, systems architecting- I didn't and haven't spent much time delineating the nuances between them. I decided to focuse on being able to build, maintain and think about complex systems, in a very abstract sense, feeling that the context in which I found myself donning any of these given roles would provide clarity about their nuances.</p>
+    <p>
+    Studying AWS, to me, qualifies as the study of a complex system, as the components of AWS are certainly systems in their own right, and building a cloud-computing solution qualifies as a architecting a system, so I took very specific <i>notes</i> on the technology, but tried to abstract away a lot of that specifity in my thinking, in terms of what I walked (or wanted to walk) away with- being able to think in (distributed, complex systems) of which AWS is only one, and is simply the exemplary tool with which I started my journey and began building my foundation in systems thinking, or theory (<i>I suppose if I had to pick, it'd be systems thinker/theorist).
     </p>
 </div>
