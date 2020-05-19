@@ -6,7 +6,9 @@ a.logo {
     height: 45% !important;
     width: 45%;
 }
-
+h1, h2, h3, h4 {
+    font-style: none !important;
+}
 .border-test {
     border: 4px solid blue;
 }
@@ -30,4 +32,12 @@ a.logo {
 
 .li-font {
     font-style: italic;
+}
+
+.blockquote {
+    line-height: 25px;
+}
+
+.ttf {
+    text-transform: none !important;
 }
