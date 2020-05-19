@@ -1,6 +1,5 @@
 +++
-title = "Examples - Custom"
-group1 = true
+title = "Custom Ex"
 
 [[components]]
 type = 'pageContent'

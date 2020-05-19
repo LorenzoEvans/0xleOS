@@ -2,11 +2,14 @@ permalink: ':category/:year/:monthName/:slug'
 categories:
   - key: 'mathematics'
     title: 'Mathematics'
-    
-  - key: 'physics'
-    title: 'Physics'
   - key: 'programming'
     title: 'Programming'
+  - key: 'systems'
+    title: 'Systems'
+  - key: 'readinglist'
+    title: 'Reading List'
+  - key: 'miscellaneous'
+    title: 'Miscellaneous'
 
 postPages:
   author: '0xle'

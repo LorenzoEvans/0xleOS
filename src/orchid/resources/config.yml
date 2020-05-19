@@ -32,10 +32,7 @@ theme:
       collectionType: pages
       collectionId: allPages
       groups:
-        - 'group1'
-        - 'group2'
         - 'group3'
-        - 'mathematics'
   sidebar:
     - type: recentPosts
       limit: 3

@@ -1,7 +1,5 @@
 ---
-title: Examples - Programming
-group1: true
-group2: true
+title: Miscellaneous
 ---
 
 ### Syntax Highlighting with Pygments 
