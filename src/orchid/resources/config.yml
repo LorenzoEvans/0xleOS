@@ -2,7 +2,7 @@ site:
   about:
     siteName: 'sforc'
     subtitle: 'Synths for Compilers'
-    siteDescription: 'This is a short blurb you can set below this index layouts sidebar.'
+    siteDescription: 'A place to track the travels of my mind.'
     avatar: '/assets/media/oregonnight.jpg'
   theme: 'FutureImperfect'
   baseUrl: 'netlify'
@@ -32,7 +32,6 @@ theme:
       collectionType: pages
       collectionId: allPages
       groups:
-        - 'group3'
   sidebar:
     - type: recentPosts
       limit: 3
