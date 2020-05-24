@@ -1,13 +1,12 @@
 ---
 title: 'Principles of Chaos Engineering notes'
+description: 'Some notes on CE(Chaos Engineering)'
 tags:
     - systems
     - programming
     - chaos-engineering
 notes: true
 ---
-
-<i>from:</i> [Principles of Chaos Engineering](https://principlesofchaos.org/?lang=ENcontent "Principles of Chaos Engineering")
 # Abstract:
 - <i>Advances in large scale, distributed systems are changing the nature of software engineering.</i>
 - <i>How much confidence can we have in the complex systems that we put into production?</i>
@@ -53,3 +52,5 @@ This is <i>sometimes</i> (referred to as) emergent behavior.
     -  **Minimize Blast Radius**
         - Experimenting on production can affect user experience. 
         - While there must be some allowance for short term negative impact, ensure that the fallout from experiments are properly contained and mitigated.
+
+<i>from:</i> [Principles of Chaos Engineering](https://principlesofchaos.org/?lang=ENcontent "Principles of Chaos Engineering")
