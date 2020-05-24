@@ -7,7 +7,6 @@ tags:
 ---
 
 - [[Principles of Chaos Engineering]]
-- #systems-engineering #CE
 - # Abstract:
     - ## __Advances in large scale, distributed systems are changing the nature of software engineering.__
     - ## __How much confidence can we have in the complex systems that we put into production?__
@@ -19,7 +18,7 @@ tags:
         - ### Improper fallback (failover) settings when a service becomes unavailable.
         - ### Retry storms from improperly tuned timeouts.
         - ### Outages when downstream dependencies receive too much traffic.
-        - ### Cascade failures when a [#SPOF]([[#Single-Point-Of-Failure]]) goes down.
+        - ### Cascade failures when a Single-Point-Of-Failure goes down.
     - ## __An empirical systems-based approach to managing the__ **__chaos__** __in distributed systems will build confidence in their ability to withstand realistic conditions.__
 - # Chaos In Practice
     - ## __To specifically address the uncertainty, we use experiments that follow four steps:__
@@ -39,9 +38,8 @@ tags:
     - # __The above/following principles describe an ideal application of Chaos Engineering, and the degree to which they are applied strongly correlates to the confidence we can have in a distributed system.__
         - ## **Build a Hypothesis around Steady State Behavior.**
             - Focus on the measurable output of a system, rather than the internal attributes- measurements of a systems output over time constitute a proxy for the system's steady-state.
-                - $$SB = f(O,\; T)$$.
-            - The system's throughput (IOPS), error rates, #latency-percentiles, could all be metrics of interest for representing steady-state behavior.
-            - ### __By focusing on system behavior patterns, [#CE]([[#chaos-engineering]]) verifies that a system__ **__does__** __work, rather than validating __**__how__** it works.
+            - The system's throughput (IOPS), error rates, latency-percentiles, could all be metrics of interest for representing steady-state behavior.
+            - ### __By focusing on system behavior patterns, chaos-engineering verifies that a system__ **__does__** __work, rather than validating __**__how__** it works.
             - 
         - ## **Vary Real-World Events.**
             - Chaos variables should reflect real-world events.
