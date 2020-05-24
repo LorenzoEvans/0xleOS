@@ -4,6 +4,7 @@ tags:
     -- systems
     -- programming
     -- chaos-engineering
+notes: true
 ---
 
 - [[Principles of Chaos Engineering]]
