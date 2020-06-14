@@ -1,6 +1,7 @@
 ---
 title: 'Embarking Into Systems' 
 tags:
+featuredImage: assets/media/network.jpg
     - systems
 ---
 <head>
