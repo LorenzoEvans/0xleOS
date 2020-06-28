@@ -1,8 +1,8 @@
 ---
 title: 'Embarking Into Systems' 
 tags:
-featuredImage: assets/media/network.jpg
     - systems
+featuredImage: assets/media/network.jpg
 ---
 <head>
     <meta property="og:image" content="/assets/media/network.jpg">
