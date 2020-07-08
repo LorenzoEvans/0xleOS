@@ -3,7 +3,7 @@
     tags:
         - mathematics
         - physics
-    
+    # featuredImage: assets/media/topology.jpg
 ---
 
 <head>
@@ -23,37 +23,42 @@
         <p>
             Before we break this topic down, we should get our bearings. 
         </p>
+        <p style="display:flex;flex-direction:column;justify-content:center;">
+            <img 
+                alt="A picture of interweaving 2 D grids." 
+                src="/assets/media/torustriang.jpg" 
+                style="height:50%;width:50%;align-items:center;align-content:center;align-self:center; margin: 5px 5px;;"/>
+        </p>
         <p>
-            One can think of topology as a tool, in the same toolbox as geometry, a study concerned with
-            the nature of shape, size, quantity, and space. When it comes to comparing the two however, what particularly concerns us, is 
+            One can think of topology as a tool, in the same toolbox as geometry(which is a study concerned with
+            the nature of shape, size, quantity, and space).
+            Given two shapes, say a square, and a rhombus, when we talk about topology
             <i>
-                surfaces
-            </i>.
-            Given two shapes, say a square, and a rhombus, when we talk about, contrast or examine the topology of these, sometimes in comparison to their geometry,
-            we are speaking of the outermost "layer", or the boundary containing the area of the shape.
+                what particularly concerns us, is 
+                surfaces, and the properties of them that do not change under deformations.</i>
+                When we talk about geometry here, what we mean is the properties of the surface, that do change 
+                under deformations, the most important of which, is <i>curvature</i>.
         </p>
-        <p>
-            When we say geometry here, what we mean is the properties of the surface, that do not change 
-            under deformations- what are these? 
-        </p>
-        <p>Topological deformations generally refer to one or more of following processes</p>
-        <ul>
-            <li>
-                <b>Tearing: <>
-            </li>
-            <li>
-                Gluing:
-            </li>
-            <li>
-                Stretching:
-            </li>
-            <li>
-                Twisting:
-            </li>
-            <li>
-                Bending:
-            </li>
-  
-        </ul>
+        <div style="font-size: 18px;font-style:bold;margin-bottom:10px;">What are these? I'm glad you asked.</div>
+        <div style="font-size: 18px;font-style:bold;margin-bottom:10px;">Topological deformations generally refer to one or more of following processes</div>
     </div> 
 </head>
+
+## Tearing:
+
+- Somewhat self explanatory, this is the same type of tear that takes place on paper- remember folding paper up and cutting parts out to make snowflakes? That was a topological deformation, in a sense. You couldn't have gone from the paper to the snowflake without making a destructive change.
+## Gluing: 
+- An example of gluing would be rolling a piece of paper up into a tube, and then sealing the sides up. Now you've performed gluing, or the connection of some points or edges of a shape- and made another destructive change, by combining
+multiple aspects of a shape into a single one.
+## Stretching: 
+- Just your regular old, every day, familiar, rubber-band style stretching, and particularly is not destructive
+## Twisting:
+- Well what do you know, non-destructive rubber-bands, again?
+## Bending:
+- Another familiar process. We've all bent plenty of stuff before. Again, non-destructive.
+<p>
+    What's important to note here, is that we generally ignore <b>Tearing</b> and <b>Gluing</b>, because these are destructive changes to a surface.
+
+</p>
+
+### Intrinsic vs. Extrinsic Properties.
