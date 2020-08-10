@@ -32,7 +32,7 @@ theme:
       collectionType: pages
       collectionId: allPages
       groups:
-        -- notes
+        - notes
   sidebar:
     - type: recentPosts
       limit: 3

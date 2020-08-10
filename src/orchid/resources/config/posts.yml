@@ -10,6 +10,8 @@ categories:
     title: 'Reading List'
   - key: 'miscellaneous'
     title: 'Miscellaneous'
+  - key: 'physics'
+    title: 'Physics'
 
 postPages:
   author: '0xle'
