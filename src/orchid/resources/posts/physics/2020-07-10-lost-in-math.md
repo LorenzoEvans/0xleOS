@@ -6,4 +6,4 @@ tags:
 featuredImage:
 ---
 
-![Chapter 1: The Hidden Rules of Physics](https://www.synthsforcompilers.dev/physics/2020/july/hidden-rules-physics/)
+<p><a href="https://www.synthsforcompilers.dev/physics/2020/july/hidden-rules-physics/">Chapter 1: The Hidden Rules of Physics</a></p>
