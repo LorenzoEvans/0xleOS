@@ -11,7 +11,7 @@ featuredImage:
   <li></li>
   <li>
   <p style="">The current era of Physics knowledge isn't benefiting from the labor divide between theorist and experimentalist.
-    I think this  is largely because <i>the gray area between the two has shrunk:</i> in order to discover new things, we must know how do to the work of the field we want to discover new things in. 
+    I think this is largely because <i>the gray area between the two has shrunk:</i> in order to discover new things, we must know how do to the work of the field we want to discover new things in. 
     </p></li>
     <li><p>Most of the running theories haven't yielded experimental evidence, some of them aren't even scientifically falsifiable.
     </p></li>
